@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.opencensus:opencensus-api:0.24.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.opencensus" artifactId="opencensus-api" version="0.24.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.24.0/f974451b19007ce820f433311ce8adb88e2b7d2c/opencensus-api-0.24.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# application.properties 파일을 무시
+application.properties
+
+# serviceAccountKey.json 파일을 무시
+serviceAccountKey.json

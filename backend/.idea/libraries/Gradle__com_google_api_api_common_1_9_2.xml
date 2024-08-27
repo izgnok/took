@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api:api-common:1.9.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.api" artifactId="api-common" version="1.9.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/1.9.2/e951d9f4f64df2bec077c7ae632a2037c7159b5/api-common-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

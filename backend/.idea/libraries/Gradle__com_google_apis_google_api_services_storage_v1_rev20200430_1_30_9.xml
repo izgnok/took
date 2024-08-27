@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.apis:google-api-services-storage:v1-rev20200430-1.30.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.apis" artifactId="google-api-services-storage" version="v1-rev20200430-1.30.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-storage/v1-rev20200430-1.30.9/979cdc36cf550cfb03a5bfd670cfaf1a2fe7b529/google-api-services-storage-v1-rev20200430-1.30.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

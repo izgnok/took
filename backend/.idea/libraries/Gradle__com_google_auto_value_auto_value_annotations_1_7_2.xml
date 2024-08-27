@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.auto.value:auto-value-annotations:1.7.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.auto.value" artifactId="auto-value-annotations" version="1.7.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.7.2/7eec707327ec1663b9387c8671efb6808750e039/auto-value-annotations-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

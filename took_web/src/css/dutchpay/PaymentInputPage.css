@@ -1,0 +1,26 @@
+/* PaymentInputPage.css */
+
+/* Swiper 네비게이션 화살표 스타일 */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #ff5722; /* 원하는 색상으로 변경 */
+  padding: 10px;
+  border-radius: 50%;
+  top: 50%; /* 세로 중앙 정렬 */
+  transform: translateY(-50%); /* 세로 중앙 정렬 */
+  z-index: 10; /* Swiper 슬라이드 위에 표시 */
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 20px; /* 아이콘 크기 조절 */
+}
+
+/* PaymentInputPage.css */
+.swiper-pagination-bullet {
+  background-color: rgba(0, 0, 0, 0.2); /* 기본 색상 (반투명 검정) */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: orange; /* 활성 상태 색상 (주황색) */
+}
