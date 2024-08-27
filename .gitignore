@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+# application.properties 파일을 무시
+application.properties
+
+# docker-compose.yml 파일을 무시
+docker-compose.yml
+
+# docker-compose-front.yml 파일을 무시
+docker-compose-front.yml
+
+# serviceAccountKey.json 파일을 무시
+serviceAccountKey.json
+=======
+docker-compose-front.yml
+>>>>>>> origin/dev-fe
