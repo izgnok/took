@@ -10,7 +10,7 @@ Took은 20~30대의 효율적인 소비를 돕기 위한 위치 기반 더치페
 ### Func 1. 정산 took! 
 
 **정산 took!** 은 근처에 위치한, 앱에 접속한 사용자들 간에 원터치 송금 서비스를 통해 빠르고 간편하게 더치페이 정산을 진행할 수 있는 서비스입니다. 
-![정산 툭](/uploads/1bdeb7e47e16261509e5bfafeb773e65/image.png)
+![정산 툭](https://github.com/user-attachments/assets/ccd72b61-8f78-4e6d-93d3-5b7adbd781b6)
 
 <br/>
 
